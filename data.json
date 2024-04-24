@@ -3,40 +3,55 @@
         "uuid": "ee786cec3f5a4c8b97bdff69ddeb65ae",
         "name": "AFYRUS",
         "slug": "afyrus",
+        "type": "web",
         "domain": {
             "dev": "http://localhost:10001",
             "staging": "",
-            "prod": "http://afyrus.cl"
+            "prod": "https://afyrus.cl"
         }
     },
     {
         "uuid": "0199d97d7cc6b058f177368829df6f79",
         "name": "AFYRUS Authenticator",
         "slug": "auth",
+        "type": "web",
         "domain": {
             "dev": "http://localhost:100011",
             "staging": "",
-            "prod": "http://afyrus.cl"
+            "prod": "https://auth.afyrus.cl"
         }
     },
     {
         "uuid": "f283c0683adfe647314311105bdbc118",
         "name": "AFYRUS Account",
         "slug": "account",
+        "type": "web",
         "domain": {
             "dev": "http://localhost:100013",
             "staging": "",
-            "prod": "http://afyrus.cl"
+            "prod": "https://account.afyrus.cl"
         }
     },
     {
         "uuid": "d7d3880a8532f1928f232a69b9422f99",
         "name": "YeslyDevs",
         "slug": "yeslydevs",
+        "type": "web",
         "domain": {
             "dev": "http://localhost:10002",
             "staging": "",
-            "prod": "http://yesly.cl"
+            "prod": "https://yesly.cl"
+        }
+    },
+    {
+        "uuid": "78b16cba31fc1c2ea6b398ab384737e7",
+        "name": "AFYRUS API",
+        "slug": "api",
+        "type": "api",
+        "domain": {
+            "dev": "http://localhost:20000",
+            "staging": "",
+            "prod": "https://api.afyrus.cl"
         }
     }
 ]
