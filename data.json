@@ -1,0 +1,38 @@
+[
+    {
+        "uuid": "ee786cec3f5a4c8b97bdff69ddeb65ae",
+        "name": "AFYRUS",
+        "domain": {
+            "dev": "http://localhost:10001",
+            "staging": "",
+            "prod": "http://afyrus.cl"
+        }
+    },
+    {
+        "uuid": "0199d97d7cc6b058f177368829df6f79",
+        "name": "AFYRUS Authenticator",
+        "domain": {
+            "dev": "http://localhost:100011",
+            "staging": "",
+            "prod": "http://afyrus.cl"
+        }
+    },
+    {
+        "uuid": "f283c0683adfe647314311105bdbc118",
+        "name": "AFYRUS Account",
+        "domain": {
+            "dev": "http://localhost:100013",
+            "staging": "",
+            "prod": "http://afyrus.cl"
+        }
+    },
+    {
+        "uuid": "d7d3880a8532f1928f232a69b9422f99",
+        "name": "YeslyDevs",
+        "domain": {
+            "dev": "http://localhost:10002",
+            "staging": "",
+            "prod": "http://yesly.cl"
+        }
+    }
+]
