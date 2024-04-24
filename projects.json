@@ -53,5 +53,72 @@
             "staging": "",
             "prod": "https://api.afyrus.cl"
         }
+    },
+    {
+        "uuid": "466eff3863a9b69a08382cda83db5cd4",
+        "name": "Peuko",
+        "slug": "peuko",
+        "type": "web",
+        "domain": {
+            "dev": "http://localhost:10004",
+            "staging": "",
+            "prod": "https://peuko.cl"
+        }
+    },
+    {
+        "uuid": "885df5a0f30b92ef1a863e873827ae26",
+        "name": "DeallWork",
+        "slug": "deallwork",
+        "type": "web",
+        "domain": {
+            "dev": "http://localhost:50001",
+            "staging": "",
+            "prod": "https://deallwork.com"
+        }
+    },
+    {
+        "uuid": "0d16dcfac917c3f2ff37dec7d256768f",
+        "name": "Adiem",
+        "slug": "adiem",
+        "type": "web",
+        "domain": {
+            "dev": "http://localhost:50002",
+            "staging": "",
+            "prod": "https://adiem.cl"
+        }
+    },
+    {
+        "uuid": "9df5046a309ded47b8d6960d46e3741c",
+        "name": "H&PROCOOP",
+        "slug": "hprocoop",
+        "type": "web",
+        "domain": {
+            "dev": "http://localhost:40001",
+            "staging": "",
+            "prod": "https://hprocoop.cl"
+        }
+    },
+    {
+        "uuid": "3c958512f474ea689824a531091b31e5",
+        "name": "Captys",
+        "slug": "captys",
+        "type": "web",
+        "domain": {
+            "dev": "http://localhost:10005",
+            "staging": "",
+            "prod": "https://captys.afyrus.cl"
+        }
+    },
+    {
+        "uuid": "6195a705a3a97d268ceb50d3e4f3add7",
+        "name": "Kabigath",
+        "slug": "kabigath",
+        "type": "web",
+        "domain": {
+            "dev": "http://localhost:10012",
+            "staging": "",
+            "prod": "https://kabigath.afyrus.cl"
+        }
     }
+
 ]
